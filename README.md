@@ -78,7 +78,7 @@ The bot combines classic heuristic triggers with AI classification and a simple 
 
    The bot will connect, log in and start monitoring messages.
 
-5. **Build & run production JS**
+5. **Build & run production JS** (Recommended)
 
    ```bash
    npm run build   # emits JS to dist/
